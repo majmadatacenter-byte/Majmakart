@@ -1,2 +1,1 @@
-# Majmakart
-Smart shopping mall 
+
